@@ -1,7 +1,7 @@
 In most of the problems, javascript logic does not matter. Just try to write types precisely.
 **Make sure all the comments in the link are fulfilled.**
 
-## (KEY) useCallback
+## (KEY) Keyof Cheatsheet
 <details>
   <summary>CodeSandbox</summary>
 

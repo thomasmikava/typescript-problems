@@ -1,7 +1,7 @@
 Just try to guess types before viewing.
 **Make sure all the comments in the link are fulfilled.**
 
-## (KEY) useCallback
+## (INK) In Cheatsheet
 <details>
   <summary>CodeSandbox</summary>
 

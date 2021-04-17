@@ -1,5 +1,5 @@
 
-const existingProblemCodes = new Set(["GAR", "KEY"]);
+const existingProblemCodes = new Set(["GAR", "KEY", "INK"]);
 
 function generateProblemCode() {
     do {
